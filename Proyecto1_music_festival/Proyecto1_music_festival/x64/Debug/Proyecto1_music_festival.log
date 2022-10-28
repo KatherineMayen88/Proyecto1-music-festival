@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\kathe\source\repos\Proyecto1_music_festival\Proyecto1_music_festival\MyForm1.h(498,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MyForm1.cpp
+C:\Users\kathe\source\repos\Proyecto1_music_festival\Proyecto1_music_festival\MyForm1.h(498,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Proyecto1_music_festival.vcxproj -> C:\Users\kathe\source\repos\Proyecto1_music_festival\x64\Debug\Proyecto1_music_festival.exe
